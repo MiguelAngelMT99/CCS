@@ -1,0 +1,17 @@
+constructora-control/
+│
+├── index.php
+├── login.php
+├── logout.php
+├── dashboard.php
+├── registrar.php
+├── historial.php
+│
+├── config/
+│   └── conexion.php
+│
+├── css/
+│   └── estilos.css
+│
+└── database/
+    └── constructora.sql
